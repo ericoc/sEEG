@@ -8,7 +8,7 @@ This repository contains imaging and details related to my _stereoelectroencepha
 - [Changing the standard of care for epilepsy monitoring at Penn Medicine](https://www.pennmedicine.org/physicians-hub/physician-article/changing-the-standard-of-care-for-epilepsy-monitoring-at-penn-medicine)
 
 ### Robot
-The implantation of electrodes during stereoelectroencephalography is performed using [robotic assistance](https://www.zimmerbiomet.com/en/products-and-solutions/zb-edge/robotics/rosa-brain.html)
+The implantation of electrodes during stereoelectroencephalography is performed using [robotic assistance](https://www.zimmerbiomet.com/en/products-and-solutions/zb-edge/robotics/rosa-brain.html).
 
 ## Why?
 My stereoelectroencephalography was performed in order to further diagnose the source of my [epilepsy](https://www.pennmedicine.org/conditions/epilepsy) in the right side of my brain.
