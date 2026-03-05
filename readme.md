@@ -5,7 +5,7 @@ This repository contains imaging and details related to my _stereoelectroencepha
 
 > Stereoelectroencephalography allows for intracranial monitoring (recordings from the brain’s surface or deep within the brain):
 
-- [https://www.pennmedicine.org/physicians-hub/physician-article/changing-the-standard-of-care-for-epilepsy-monitoring-at-penn-medicine]
+- [https://www.pennmedicine.org/physicians-hub/physician-article/changing-the-standard-of-care-for-epilepsy-monitoring-at-penn-medicine](Changing the standard of care for epilepsy monitoring at Penn Medicine)
 
 ### Robot
 The implantation of electrodes during stereoelectroencephalography is performed using [robotic assistance](https://www.zimmerbiomet.com/en/products-and-solutions/zb-edge/robotics/rosa-brain.html)
