@@ -33,14 +33,14 @@
     <body>
 
         <header>
-            <nav class="navbar navbar-dark text-nowrap m-auto row">
-                <h1 class="col text-center" title="⚡ Stereoelectroencephalography 🩺 ~/ericoc/sEEG 🧠" id="title">
+            <nav class="m-auto m-navbar navbar-dark">
+                <h1 class="text-center" title="⚡ Stereoelectroencephalography 🩺 ~/ericoc/sEEG 🧠" id="title">
                     ⚡ Stereoelectroencephalography 🩺
                     <code>~ericoc/<a href="#title">sEEG</a></code> 🧠
                 </h1>
             </nav>
-            <div class="p-3">
-                <p class="lead m-auto text-center p-3">
+            <div class="m-3 text-center">
+                <p class="lead">
                     These are details, images, and documentation regarding my
                     <a class="fst-italic" href="https://en.wikipedia.org/wiki/Stereoelectroencephalography" target="_blank" title="stereoelectroencephalography">stereoelectroencephalography</a>
                     (sEEG, or &quot;<em>stereo</em> EEG&quot;) at the
@@ -52,22 +52,42 @@
 
         <main class="border-top border-bottom container-fluid p-3">
 
-            <p>
+            <p class="lead text-center">
                 <em>Stereoelectroencephalography</em> is a minimally-invasive neurological surgical procedure that
                 allows for intracranial monitoring (recordings from the brain’s surface or deep within the brain).
                 The implantation of electrodes during stereoelectroencephalography is performed using
                 <a href="https://www.zimmerbiomet.com/en/products-and-solutions/zb-edge/robotics/rosa-brain.html" target="_blank" title="robotic assistance">robotic assistance</a>.
             </p>
-            <p>
-                My stereoelectroencephalography was done by the Penn Medicine
-                <a href="https://www.pennmedicine.org/departments-and-centers/neurosurgery" target="_blank" title="Department of Neurology">Department of Neurosurgery</a>
-                in order to more closely determine the source of my
-                <a href="https://www.pennmedicine.org/conditions/epilepsy" target="_blank" title="epilepsy">epilepsy</a> (seizures)
-                within the right side of my brain, while I stayed in-patient at their highly sophisticated
-                <a href="https://www.pennmedicine.org/specialties/comprehensive-epilepsy-center/epilepsy-monitoring-unit" target="_blank" title="Epilepsy Monitoring Unit (EMU)">Epilepsy Monitoring Unit (EMU)</a>.
-            </p>
+            <div class="row m-auto">
 
-            <hr>
+                <div class="col">
+                    <a href="static/images/electrodes_ct.png" title="sEEG Electrodes CT">
+                        <img src="static/images/electrodes_ct.png" alt="sEEG Electrodes CT" style="max-width: 90%;">
+                    </a>
+                </div>
+
+                <div class="col m-auto text-center">
+                    <p>
+                        My stereoelectroencephalography was done by the Penn Medicine
+                        <a href="https://www.pennmedicine.org/departments-and-centers/neurosurgery" target="_blank" title="Department of Neurology">Department of Neurosurgery</a>
+                        in order to more closely determine the source of my
+                        <a href="https://www.pennmedicine.org/conditions/epilepsy" target="_blank" title="epilepsy">epilepsy</a>.
+                    </p>
+                    <p>
+                        I had thirteen (13) electrodes, each with twelve (12) sensors, temporarily implanted into the
+                        right side of my brain, to monitor any seizure activity while in-patient for five (5) days at the their highly sophisticated
+                        <a href="https://www.pennmedicine.org/specialties/comprehensive-epilepsy-center/epilepsy-monitoring-unit" target="_blank">Epilepsy Monitoring Unit</a>.
+
+                    </p>
+                </div>
+
+                <div class="col">
+                    <a href="static/images/labeled_colors_trans.png" title="Labeled sEEG Electrodes">
+                        <img src="static/images/labeled_colors_trans.png" alt="Labeled sEEG Electrodes" style="max-width: 75%;">
+                    </a>
+                </div>
+
+            </div>
 
             <p>
                 I am incredibly thankful to everyone at Penn involved in my stay, procedure, and care, including the
@@ -88,13 +108,22 @@
 
         </main>
 
-        <footer class="h6 p-3">
-            <a class="icon-link" href="https://github.com/ericoc/sEEG" id="source" target="_blank" title="View source of this page <https://github.com/ericoc/sEEG>">
-                <svg class="bi text-info" aria-hidden="true">
-                    <use xlink:href="static/bootstrap-icons-1.13.1/bootstrap-icons.svg#code-slash"></use>
-                </svg>
-                <code>https://github.com/ericoc/sEEG</code>
-            </a>
+        <footer class="row m-auto m-3">
+
+            <div class="col text-start">
+                <a class="icon-link" href="https://github.com/ericoc/sEEG" id="source" target="_blank" title="View source of this page <https://github.com/ericoc/sEEG>">
+                    <svg class="bi text-info" aria-hidden="true">
+                        <use xlink:href="static/bootstrap-icons-1.13.1/bootstrap-icons.svg#code-slash"></use>
+                    </svg>
+                    <code>https://github.com/ericoc/sEEG</code>
+                </a>
+            </div>
+
+            <div class="col text-end">
+                <em>Last Updated</em>:
+                <time class="small" datetime="2026-03-05"><code>Thursday, March 5, 2026</code></time>
+            </div>
+
         </footer>
 
         <script>
