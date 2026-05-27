@@ -13,7 +13,7 @@ This repository contains imaging and details related to my _stereoelectroencepha
 The implantation of electrodes during stereoelectroencephalography is performed using [robotic assistance](https://www.zimmerbiomet.com/en/products-and-solutions/zb-edge/robotics/rosa-brain.html).
 
 ## Why?
-My stereoelectroencephalography was performed in order to further diagnose the source of my [epilepsy](https://www.pennmedicine.org/conditions/epilepsy) of my brain.
+My stereoelectroencephalography was performed in order to further diagnose the source of my [epilepsy](https://www.pennmedicine.org/conditions/epilepsy).
 
 ## Who/Where?
 The Penn Medicine [Department of Neurosurgery](https://www.pennmedicine.org/departments-and-centers/neurosurgery) and [Epilepsy Monitoring Unit (EMU)](https://www.pennmedicine.org/specialties/comprehensive-epilepsy-center/epilepsy-monitoring-unit) at the [Hospital of the University of Pennsylvania](https://www.pennmedicine.org/locations/hospital-of-the-university-of-pennsylvania) are extremely impressive.
